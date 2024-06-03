@@ -1,0 +1,15 @@
+.blog-details-img img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.blog-details-title {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.blog-short-desc {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
